@@ -1,0 +1,9 @@
+1. remove api folder inside pages , inside styles folder remove Home.modules.css
+2. modify index.js, _app.js,
+
+#### tailwind integration 
+ 1. install next js tailwind css:  
+     yarn add -D tailwindcss postcss autoprefixer
+
+2. npx tailwindcss init -p
+3. modify tailwind config.js and global.css  
