@@ -6,4 +6,6 @@
      yarn add -D tailwindcss postcss autoprefixer
 
 2. npx tailwindcss init -p
-3. modify tailwind config.js and global.css  
+3. modify tailwind config.js and global.css 
+
+###### create root short-cut 
